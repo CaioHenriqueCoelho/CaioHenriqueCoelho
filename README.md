@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=#12004f&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=12004f&style=for-the-badge&logo=GitHub">
 <p>
 
  Hey ! I'm a Full-Stack Developer. I work at **Specchio** in systems development.
