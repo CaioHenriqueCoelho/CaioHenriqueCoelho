@@ -13,9 +13,9 @@
 <hr>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquecoelho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=white&text_color=white&icon_color=red&bg_color=12004f"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquecoelho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=white&text_color=white&icon_color=red&bg_color=d2fce4"/>  
  
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=caiohenriquecoelho&show_icons=true&title_color=white&text_color=white&icon_color=783c00&bg_color=12004f&cache_seconds=2300">
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=caiohenriquecoelho&show_icons=true&title_color=white&text_color=white&icon_color=783c00&bg_color=d2fce4&cache_seconds=2300">
 </div>
 
 <hr>
