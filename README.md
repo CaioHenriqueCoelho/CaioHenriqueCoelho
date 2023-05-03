@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=red&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=#12004f&style=for-the-badge&logo=GitHub">
 <p>
 
  Hey ! I'm a Full-Stack Developer. I work at **Specchio** in systems development.
@@ -13,9 +13,9 @@
 <hr>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquecoelho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=#4B0082"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquecoelho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=12004f"/>  
  
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=caiohenriquecoelho&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=#4B0082&cache_seconds=2300">
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=caiohenriquecoelho&show_icons=true&title_color=783c00&text_color=12004f&icon_color=783c00&bg_color=#4B0082&cache_seconds=2300">
 </div>
 
 <hr>
