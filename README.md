@@ -2,20 +2,20 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=red&style=for-the-badge&logo=GitHub">
 <p>
 
- Hi ! I'm a Full-Stack Developer. I work at **Dell Tecnchologies** in development of internal system to support the Brazil sales operations.
+ Hey ! I'm a Full-Stack Developer. I work at **Specchio** in systems development.
 <br><br>
-- Automation of sales/finance-related processes.
-- Development and support for system in ASP.NET MVC / .NET Core and Console Application in C#.
-- Querying MS SQL Server and creation of SSIS packages.
-
+- Automation of processes related to sales/orders.
+- Web system development and support.
+- Querying PostgreSQL.
+- API integration.
 </p>
 <br>
 <hr>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilopesi&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriquecoelho&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=#4B0082"/>  
  
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=wilopesi&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+ <img align='right' src="https://github-readme-stats.vercel.app/api?username=caiohenriquecoelho&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=#4B0082&cache_seconds=2300">
 </div>
 
 <hr>
@@ -105,6 +105,6 @@
 <br><hr>
                                                                                                                                    
 ### Follow Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilopesbrz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/caio-henrique-coelho-858a77198//)
 #
 
