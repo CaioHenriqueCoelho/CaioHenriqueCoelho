@@ -83,6 +83,6 @@
 <br><hr>
                                                                                                                                    
 ### Follow Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/caio-henrique-coelho-858a77198//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.https://www.linkedin.com/in/caio-henrique-coelho-858a77198//)
 #
 
