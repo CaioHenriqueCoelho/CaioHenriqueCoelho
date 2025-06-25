@@ -1,13 +1,17 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Caio Coelho&color=c3eff7&style=for-the-badge&logo=GitHub">
 <p>
+  👋 Hey! I'm a Full-Stack Developer with a focus on building scalable and efficient web applications.<br><br>
 
- Hey ! I'm a Full-Stack Developer. I work at **Specchio** in systems development.
-<br><br>
-- Automation of processes related to sales/orders.
-- Web system development and support.
-- Querying PostgreSQL.
-- API integration.
+  🔧 <strong>Front-End Development:</strong> Experienced in AngularJS, Angular, Less, and Bootstrap to create dynamic and responsive user interfaces.<br>
+  🧩 <strong>Back-End Development:</strong> Java with Spring Boot and Spring MVC for developing robust RESTful microservices.<br>
+  🗃️ <strong>Database Management:</strong> Modeling and optimizing relational databases using MySQL, ensuring performance and data integrity.<br>
+  🔗 <strong>API Integration:</strong> Skilled in integrating external APIs to enable seamless communication between systems.<br>
+  🐳 <strong>Containers:</strong> Hands-on experience with Docker for environment standardization and deployment.<br>
+  🔄 <strong>Version Control:</strong> Daily use of Git for team collaboration and code management.<br>
+  💬 <strong>Support & Maintenance:</strong> Responsible for troubleshooting, resolving issues, and implementing improvements in production environments.<br><br>
+
+  Passionate about delivering smooth user experiences and efficient system integrations in retail and sales environments, particularly with Point of Sale (PDV) systems.
 </p>
 <br>
 <hr>
