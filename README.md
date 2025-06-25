@@ -9,7 +9,7 @@
   🔄 <strong>Controle de Versão:</strong> Utilização diária do Git para versionamento de código e colaboração em equipe.<br>
   💬 <strong>Suporte e Manutenção:</strong> Atuação com suporte técnico, resolução de problemas e implementação de melhorias em ambientes produtivos.<br><br>
 
-  Apaixonado por entregar experiências de alta qualidade aos usuários e por integrar sistemas com eficiência — especialmente em plataformas de vendas e varejo, como sistemas de Ponto de Venda (PDV).
+  Apaixonado por entregar experiências de alta qualidade aos usuários e por integrar sistemas com eficiência.
 </p>
 
 <br>
