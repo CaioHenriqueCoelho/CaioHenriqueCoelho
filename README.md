@@ -1,16 +1,17 @@
 <p>
-  👋 Hey! I'm a Full-Stack Developer focused on building scalable and efficient web applications.<br><br>
+  👋 Olá! Sou um Desenvolvedor Full-Stack focado na criação de aplicações web escaláveis e eficientes.<br><br>
 
-  🔧 <strong>Front-End Development:</strong> AngularJS, Angular, Less, and Bootstrap to create dynamic and responsive user interfaces.<br>
-  🧩 <strong>Back-End Development:</strong> Java with Spring Boot and Node.js for developing robust RESTful APIs and microservices.<br>
-  🗃️ <strong>Database Management:</strong> Modeling and optimizing relational databases using MySQL and PostgreSQL, ensuring performance and data integrity.<br>
-  🔗 <strong>API Integration:</strong> Skilled in building and integrating RESTful APIs to enable seamless communication between systems.<br>
-  🐳 <strong>Containers:</strong> Experience with Docker for environment standardization and deployment automation.<br>
-  🔄 <strong>Version Control:</strong> Daily use of Git for code versioning and team collaboration.<br>
-  💬 <strong>Support & Maintenance:</strong> Hands-on experience in technical support, issue resolution, and implementation of improvements in production environments.<br><br>
+  🔧 <strong>Desenvolvimento Front-End:</strong> Experiência com AngularJS, Angular, Less e Bootstrap para criação de interfaces dinâmicas e responsivas.<br>
+  🧩 <strong>Desenvolvimento Back-End:</strong> Java com Spring Boot e Node.js para construção de APIs RESTful robustas e microsserviços.<br>
+  🗃️ <strong>Gerenciamento de Banco de Dados:</strong> Modelagem e otimização de bancos de dados relacionais utilizando MySQL e PostgreSQL, garantindo desempenho e integridade dos dados.<br>
+  🔗 <strong>Integração de APIs:</strong> Habilidade na construção e integração de APIs RESTful, promovendo comunicação eficiente entre sistemas.<br>
+  🐳 <strong>Containers:</strong> Experiência com Docker para padronização de ambientes e automação de deploys.<br>
+  🔄 <strong>Controle de Versão:</strong> Utilização diária do Git para versionamento de código e colaboração em equipe.<br>
+  💬 <strong>Suporte e Manutenção:</strong> Atuação com suporte técnico, resolução de problemas e implementação de melhorias em ambientes produtivos.<br><br>
 
-  Passionate about delivering high-quality user experiences and efficient system integrations — especially in sales and retail platforms like Point of Sale (PDV) systems.
+  Apaixonado por entregar experiências de alta qualidade aos usuários e por integrar sistemas com eficiência — especialmente em plataformas de vendas e varejo, como sistemas de Ponto de Venda (PDV).
 </p>
+
 <br>
 <hr>
 
